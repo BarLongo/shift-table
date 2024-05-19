@@ -1,4 +1,4 @@
-# LittleLinguist
+# LittleLinguist - THe best project ever
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.6.
 
