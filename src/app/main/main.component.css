@@ -1,0 +1,24 @@
+.category-button-div {
+   text-align: center;
+    padding: 1%
+}
+
+#category-button {
+    width: 35%
+}
+
+ th {
+   text-align: center;
+   font-weight: 500;
+   color: beige;
+  }
+
+ td {
+    text-align: center;
+   }
+
+h1 {
+text-align: center;
+color: #69F0AE;
+font-weight: 900;
+  }

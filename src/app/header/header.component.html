@@ -1,0 +1,13 @@
+  <p>
+    <mat-toolbar color="primary">
+        <mat-icon mat-icon [matMenuTriggerFor] = "menu" class="header-icon">menu</mat-icon>
+            <mat-menu #menu="matMenu" >
+                <button mat-menu-item>Admin</button>
+                <button mat-menu-item>Let's play!</button>
+            </mat-menu>
+        <span class="spacer"> </span>
+        <span >Little Linguist</span>
+        <span class="spacer"> </span>
+        <mat-icon class="header-icon">person_outline</mat-icon>
+    </mat-toolbar>
+  </p>
